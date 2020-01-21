@@ -1,0 +1,7 @@
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\bin\Debug\processFile.exe.config
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\bin\Debug\processFile.exe
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\bin\Debug\processFile.pdb
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\obj\Debug\processFile.csprojAssemblyReference.cache
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\obj\Debug\processFile.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\obj\Debug\processFile.exe
+C:\Users\alvaro.rodrigues\source\repos\processFile\processFile\obj\Debug\processFile.pdb
